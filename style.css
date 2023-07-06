@@ -1,0 +1,22 @@
+ul{
+	list-style-type:circle;
+}
+ul{
+	list-style-type:name;
+}
+
+ol{
+	list-style-type:upper-roman;
+}
+ol{
+	list-style-type:lower-alpha;
+}
+
+ul{
+	list-style-image:url("img/tick.jpg")
+	
+}
+list-style-position: outside;
+list-style-position: inside;
+
+list-style: square outside url("img/tick.jpg")
